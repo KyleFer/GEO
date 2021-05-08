@@ -1,1 +1,2 @@
-# GEO
+# Geologist
+Geologist Project
